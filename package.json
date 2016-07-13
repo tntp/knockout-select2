@@ -1,6 +1,7 @@
 {
   "name": "knockout-select2",
   "version": "0.0.1",
+  "main": "dist/knockout-select2.js",
   "devDependencies": {
     "bower": "*",
     "express": "^4.13.0",
