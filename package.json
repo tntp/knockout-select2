@@ -1,7 +1,6 @@
 {
-  "name": "noname",
-  "version": "0.0.0",
-  "private": true,
+  "name": "knockout-select2",
+  "version": "0.0.1",
   "devDependencies": {
     "bower": "*",
     "express": "^4.13.0",
