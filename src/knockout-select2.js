@@ -9,7 +9,7 @@
     'use strict';
 
     var bindingName = 'select2';
-    if (module && module.config() && module.config().name) {
+    if (module && typeof(module.config) === 'function' && module.config() && module.config().name) {
         bindingName = module.config().name;
     }
 
